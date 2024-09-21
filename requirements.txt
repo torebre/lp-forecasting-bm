@@ -1,0 +1,7 @@
+#pmdarima==1.8.4
+#pymc3==3.11.4
+tensorflow-probability==0.15.0
+#pydlm==0.1.1.11
+#prophet==1.0.1
+
+pandas~=2.2.2
